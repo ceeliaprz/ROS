@@ -1,0 +1,3 @@
+InfPersonalUsuario infpersonal
+string emocion
+PosicionUsuario posicion
